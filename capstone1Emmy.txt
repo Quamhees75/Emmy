@@ -10,7 +10,7 @@
   <img src="images/funnelbites.jpg"
     alt="Photo of the funnelbites"  />
     width="828"
-    height="1143"
-    
+    height="1143"   />
+
 </body>
 </html>
