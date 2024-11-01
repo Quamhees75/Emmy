@@ -7,11 +7,20 @@
 <body>
  <p>
  <p>
- 
+
   <img src="images/funnelbites.jpg"
     alt="Photo of the funnelbites"  />
     width="828"
     height="1143"   />
+    
+    <a>
+    <a  href="page.html'>Link</a>
+    <a  href= "#"   targets="_blank'>
+    Click me
+    </a>
+    <div    id="about'>
+    </div>
+    
 
 
 
